@@ -1,5 +1,5 @@
 # Light-Night-Mode-Toggle-Bar
-**Outputs :**
+## Outputs :
 
 After running the HTML file using Live server we can get to see the below Light Mode Web Page
 
@@ -17,11 +17,14 @@ https://github.com/Bhanu1692/Light-Night-Mode-Toggle-Bar/assets/136798220/987f88
 
 `**working video for Night and Light Mode Toggle Bar**`
 
-`Usage`
+## Usage
+
 To use the toggle bar, simply run the HTML file using a Live Server. Click the moon icon to switch between light and dark modes.
 
-`Contributing`
+## Contributing
+
 Contributions are welcome! Please follow the guidelines outlined in the Contribution Guidelines.
 
-`License`
+## License
+
 This project is licensed under the MIT License.
