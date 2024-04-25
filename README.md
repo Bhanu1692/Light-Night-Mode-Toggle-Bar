@@ -6,7 +6,7 @@ After running the HTML file using Live server we can get to see the below Light 
 ![Light Mode](https://github.com/Bhanu1692/Light-Night-Mode-Toggle-Bar/assets/136798220/2196c870-deeb-4387-9e34-c7beb5ce4af0)
 `**Light Mode Web page**`
 
-After clicking the moon it takes about 1.5seconds delay the Light Mode Web Page changes into drak Mode Web Page as **seen below**
+After clicking the moon it takes about 1.5seconds delay the Light Mode Web Page changes into dark Mode Web Page as **seen below**
 
 ![Dark Mode ](https://github.com/Bhanu1692/Light-Night-Mode-Toggle-Bar/assets/136798220/4afb200b-e630-45af-9758-17ca81fef040)
 `**Dark Mode Web page**`
