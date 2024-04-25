@@ -30,6 +30,6 @@ Please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact us at [durgabhanuprakashdadi@gmail.com](mailto:email@example.com).
+If you have any questions or need further assistance, feel free to contact us at [durgabhanuprakashdadi@gmail.com](mailto:durgabhanuprakashdadi@gmail.com).
 
 We appreciate your contributions!
